@@ -20,7 +20,7 @@ const COLORS = [
 function shuffle(array) {
   let counter = array.length;
 
-  // While there are elements in the arrays
+  // While there are elements in the arrayss
   while (counter > 0) {
     // Pick a random index
     let index = Math.floor(Math.random() * counter);
